@@ -1,12 +1,9 @@
 # Coming Soon Page Using HTML CSS & JavaScript with Time Date Countdown
 
 In this project was created a website using HTML, CSS, and JavaScript. 
-
 I added a time and date count using JavaScript, which will update every second. 
-
 The counter will display the days, hours, minutes and seconds that are missing to launch the website.
-
-This project was done with auxilio from an Easy Tutorials tutorial
+This project was done with help an Easy Tutorials tutorial
 
 ⚒️ Technologies used:
 
@@ -17,7 +14,7 @@ This project was done with auxilio from an Easy Tutorials tutorial
 
 🤓 Learning:
 
-- Use JavaScript: make a countdown time
+- JavaScript: make a countdown time
 - Improving the knowledge of responsiveness with @media
 
 📄 Requirements:
@@ -28,7 +25,7 @@ This project was done with auxilio from an Easy Tutorials tutorial
 
 📝 License:
 
--Free for use and change
+- Free for use and change
 
 💻 Result:
 
